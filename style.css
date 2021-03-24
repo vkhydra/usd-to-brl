@@ -34,7 +34,7 @@ body {
   position: absolute;
   top: 40px;
   right: 265px;
-  background-color: aliceblue;
+  background-color: #fada06;
   border-radius: 60px 60px 60px 10px;
   transition: 0.4s;
 }
