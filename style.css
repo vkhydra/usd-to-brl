@@ -35,11 +35,11 @@ body {
   top: 40px;
   right: 265px;
   background-color: aliceblue;
-  border-radius: 200px;
+  border-radius: 60px 60px 60px 10px;
   transition: 0.4s;
 }
 
 .alura-logo:hover {
   border-radius: 60px;
-  background-color: #03e2a1;
+  background-color: #fada06;
 }
